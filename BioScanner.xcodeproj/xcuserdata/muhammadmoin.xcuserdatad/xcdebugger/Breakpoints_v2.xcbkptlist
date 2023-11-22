@@ -14,8 +14,8 @@
             filePath = "BioScannerApp/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "65"
-            endingLineNumber = "65"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
             landmarkName = "verifyBtnTapped(_sender:)"
             landmarkType = "7">
             <Locations>
@@ -124,53 +124,36 @@
                   endingLineNumber = "66"
                   offsetFromSymbolStart = "732">
                </Location>
+               <Location
+                  uuid = "B85973D7-4421-4A74-A131-DADD17D76B10 - ddcc14a7209f87a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BioScannerApp.ViewController.verifyBtnTapped(_sender: __C.UIButton) -&gt; ()"
+                  moduleName = "BioScannerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadmoin/XCodeProjects/FrameworkProjects/BioScanner/BioScannerApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "768">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "1CC25DB4-E053-40FE-BABD-98AEB548D121"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BioScannerApp/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "21"
-            endingLineNumber = "21"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "3629FC8C-E395-4018-A69F-C6C6042BB90B"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BioScannerApp/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "22"
-            endingLineNumber = "22"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "6F480EEC-4BFB-4347-BDC1-A0ACF99AD7F9"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "141"
-            endingLineNumber = "141"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
             landmarkName = "isBiometricsChanged()"
             landmarkType = "7">
             <Locations>
@@ -204,6 +187,21 @@
                   endingLineNumber = "141"
                   offsetFromSymbolStart = "296">
                </Location>
+               <Location
+                  uuid = "6F480EEC-4BFB-4347-BDC1-A0ACF99AD7F9 - d003ace9e6620e86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.LAContext.isBiometricsChanged() -&gt; Swift.Bool"
+                  moduleName = "BioScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadmoin/XCodeProjects/FrameworkProjects/BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "296">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -211,14 +209,14 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "3483EA36-82B2-465F-B45A-D631427FC4D8"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "144"
-            endingLineNumber = "144"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
             landmarkName = "isBiometricsChanged()"
             landmarkType = "7">
             <Locations>
@@ -252,6 +250,21 @@
                   endingLineNumber = "144"
                   offsetFromSymbolStart = "1644">
                </Location>
+               <Location
+                  uuid = "3483EA36-82B2-465F-B45A-D631427FC4D8 - d003ace9e6620e63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.LAContext.isBiometricsChanged() -&gt; Swift.Bool"
+                  moduleName = "BioScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadmoin/XCodeProjects/FrameworkProjects/BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "1644">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -260,38 +273,6 @@
          <BreakpointContent
             uuid = "F5222BA4-B4B2-4A84-8D23-4CFE5B930D08"
             shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "153"
-            endingLineNumber = "153"
-            landmarkName = "isBiometricsChanged()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "B90B4ADB-7818-48D2-90F7-F261C982CCB3"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "158"
-            endingLineNumber = "158"
-            landmarkName = "isBiometricsChanged()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "E29308E0-1A17-47D9-B97D-E44F2B318F0D"
-            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
@@ -306,15 +287,47 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "B9FE890A-9A9C-47C0-9CE4-081DA4805783"
-            shouldBeEnabled = "Yes"
+            uuid = "B90B4ADB-7818-48D2-90F7-F261C982CCB3"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "154"
-            endingLineNumber = "154"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "isBiometricsChanged()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E29308E0-1A17-47D9-B97D-E44F2B318F0D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "isBiometricsChanged()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9FE890A-9A9C-47C0-9CE4-081DA4805783"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
             landmarkName = "isBiometricsChanged()"
             landmarkType = "7">
             <Locations>
@@ -348,6 +361,21 @@
                   endingLineNumber = "154"
                   offsetFromSymbolStart = "3708">
                </Location>
+               <Location
+                  uuid = "B9FE890A-9A9C-47C0-9CE4-081DA4805783 - d003ace9e6620c95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.LAContext.isBiometricsChanged() -&gt; Swift.Bool"
+                  moduleName = "BioScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadmoin/XCodeProjects/FrameworkProjects/BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "3708">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -355,14 +383,14 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "23C4F3A8-D9B8-4C10-8D63-B5FF2EBB1C9B"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "151"
-            endingLineNumber = "151"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
             landmarkName = "isBiometricsChanged()"
             landmarkType = "7">
             <Locations>
@@ -396,6 +424,21 @@
                   endingLineNumber = "151"
                   offsetFromSymbolStart = "2748">
                </Location>
+               <Location
+                  uuid = "23C4F3A8-D9B8-4C10-8D63-B5FF2EBB1C9B - d003ace9e6620f0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.LAContext.isBiometricsChanged() -&gt; Swift.Bool"
+                  moduleName = "BioScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadmoin/XCodeProjects/FrameworkProjects/BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "2748">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -409,8 +452,8 @@
             filePath = "BioScannerApp/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "46"
-            endingLineNumber = "46"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
             landmarkName = "verifyBtnTapped(_sender:)"
             landmarkType = "7">
             <Locations>
@@ -459,6 +502,36 @@
                   endingLineNumber = "46"
                   offsetFromSymbolStart = "72">
                </Location>
+               <Location
+                  uuid = "54E8002B-3E42-4397-8B31-01DF9B89D478 - d6d65a794b47b60d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.NSNumber, BioScanner.AuthManager.BiometricResult) -&gt; () in BioScannerApp.ViewController.verifyBtnTapped(_sender: __C.UIButton) -&gt; ()"
+                  moduleName = "BioScannerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadmoin/XCodeProjects/FrameworkProjects/BioScanner/BioScannerApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "54E8002B-3E42-4397-8B31-01DF9B89D478 - ee32459a7fd37464"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.NSNumber, BioScanner.AuthManager.BiometricType, BioScanner.AuthManager.BiometricResult) -&gt; () in BioScannerApp.ViewController.verifyBtnTapped(_sender: __C.UIButton) -&gt; ()"
+                  moduleName = "BioScannerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadmoin/XCodeProjects/FrameworkProjects/BioScanner/BioScannerApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "88">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -472,8 +545,8 @@
             filePath = "BioScannerApp/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "38"
-            endingLineNumber = "38"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
             landmarkName = "verifyBtnTapped(_sender:)"
             landmarkType = "7">
             <Locations>
@@ -522,6 +595,21 @@
                   endingLineNumber = "38"
                   offsetFromSymbolStart = "52">
                </Location>
+               <Location
+                  uuid = "B6809EF4-1FB7-45D9-9FD6-95B2F3163DFD - ddcc14a7209f8205"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BioScannerApp.ViewController.verifyBtnTapped(_sender: __C.UIButton) -&gt; ()"
+                  moduleName = "BioScannerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadmoin/XCodeProjects/FrameworkProjects/BioScanner/BioScannerApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "56">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -529,14 +617,14 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "54B66857-DBFD-48BD-92BD-FB493810AF9C"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "127"
-            endingLineNumber = "127"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
             landmarkName = "isBiometricAvailable()"
             landmarkType = "7">
             <Locations>
@@ -570,6 +658,21 @@
                   endingLineNumber = "127"
                   offsetFromSymbolStart = "212">
                </Location>
+               <Location
+                  uuid = "54B66857-DBFD-48BD-92BD-FB493810AF9C - a0d6d0ca9399cc35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.LAContext.isBiometricAvailable() -&gt; Swift.Bool"
+                  moduleName = "BioScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadmoin/XCodeProjects/FrameworkProjects/BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "212">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -577,14 +680,14 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "470D58EE-8122-4021-B63D-780641F0F895"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "132"
-            endingLineNumber = "132"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
             landmarkName = "isBiometricAvailable()"
             landmarkType = "7">
             <Locations>
@@ -618,6 +721,21 @@
                   endingLineNumber = "132"
                   offsetFromSymbolStart = "2372">
                </Location>
+               <Location
+                  uuid = "470D58EE-8122-4021-B63D-780641F0F895 - a0d6d0ca9399cd58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.LAContext.isBiometricAvailable() -&gt; Swift.Bool"
+                  moduleName = "BioScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadmoin/XCodeProjects/FrameworkProjects/BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "2372">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -625,14 +743,14 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "0B07F2C4-9AF8-4211-A9E8-95BBBD734926"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "130"
-            endingLineNumber = "130"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
             landmarkName = "isBiometricAvailable()"
             landmarkType = "7">
             <Locations>
@@ -666,6 +784,21 @@
                   endingLineNumber = "130"
                   offsetFromSymbolStart = "316">
                </Location>
+               <Location
+                  uuid = "0B07F2C4-9AF8-4211-A9E8-95BBBD734926 - a0d6d0ca9399cc96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.LAContext.isBiometricAvailable() -&gt; Swift.Bool"
+                  moduleName = "BioScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadmoin/XCodeProjects/FrameworkProjects/BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "316">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -679,8 +812,8 @@
             filePath = "BioScannerApp/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
             landmarkName = "verifyBtnTapped(_sender:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -695,8 +828,8 @@
             filePath = "BioScannerApp/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "39"
-            endingLineNumber = "39"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
             landmarkName = "verifyBtnTapped(_sender:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -711,8 +844,8 @@
             filePath = "BioScannerApp/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "53"
-            endingLineNumber = "53"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
             landmarkName = "verifyBtnTapped(_sender:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -727,8 +860,8 @@
             filePath = "BioScannerApp/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "30"
-            endingLineNumber = "30"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
             landmarkName = "toggleBtnTapped(_sender1:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -753,14 +886,14 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "3521D4C4-3A17-4B2A-85AF-2C241B2950F2"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "142"
-            endingLineNumber = "142"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
             landmarkName = "isBiometricsChanged()"
             landmarkType = "7">
             <Locations>
@@ -792,6 +925,21 @@
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "142"
                   endingLineNumber = "142"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "3521D4C4-3A17-4B2A-85AF-2C241B2950F2 - d003ace9e6620ee7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.LAContext.isBiometricsChanged() -&gt; Swift.Bool"
+                  moduleName = "BioScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadmoin/XCodeProjects/FrameworkProjects/BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
                   offsetFromSymbolStart = "376">
                </Location>
             </Locations>
@@ -1513,14 +1661,14 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "D7DFF5AF-6688-4F4A-851E-11FBEBE4D137"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "146"
-            endingLineNumber = "146"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
             landmarkName = "isBiometricsChanged()"
             landmarkType = "7">
             <Locations>
@@ -1554,6 +1702,21 @@
                   endingLineNumber = "146"
                   offsetFromSymbolStart = "2020">
                </Location>
+               <Location
+                  uuid = "D7DFF5AF-6688-4F4A-851E-11FBEBE4D137 - d003ace9e6620fad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.LAContext.isBiometricsChanged() -&gt; Swift.Bool"
+                  moduleName = "BioScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadmoin/XCodeProjects/FrameworkProjects/BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "2020">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -1561,14 +1724,14 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "01DAD5AF-22CD-4CBC-BC77-493756290C62"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "152"
-            endingLineNumber = "152"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
             landmarkName = "isBiometricsChanged()"
             landmarkType = "7">
             <Locations>
@@ -1602,7 +1765,228 @@
                   endingLineNumber = "152"
                   offsetFromSymbolStart = "3280">
                </Location>
+               <Location
+                  uuid = "01DAD5AF-22CD-4CBC-BC77-493756290C62 - d003ace9e6620f6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.LAContext.isBiometricsChanged() -&gt; Swift.Bool"
+                  moduleName = "BioScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadmoin/XCodeProjects/FrameworkProjects/BioFaceNFIiOS/BioFaceNFIiOS/LAContextExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "3280">
+               </Location>
             </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0FDBE2E-86D4-4DC3-99EA-B2F61B9D83DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "evaluate(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F0FDBE2E-86D4-4DC3-99EA-B2F61B9D83DF - 95543a76859da53b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BioScanner.AuthManager.evaluate(completion: (__C.NSNumber, BioScanner.AuthManager.BiometricResult) -&gt; ()) -&gt; ()"
+                  moduleName = "BioScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadmoin/XCodeProjects/FrameworkProjects/BioFaceNFIiOS/BioFaceNFIiOS/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "F0FDBE2E-86D4-4DC3-99EA-B2F61B9D83DF - e376036d213307a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BioScanner.AuthManager.evaluate(completion: (__C.NSNumber, BioScanner.AuthManager.BiometricResult) -&gt; ()) -&gt; ()"
+                  moduleName = "BioScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadmoin/XCodeProjects/FrameworkProjects/BioFaceNFIiOS/BioFaceNFIiOS/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "F0FDBE2E-86D4-4DC3-99EA-B2F61B9D83DF - 7261bf2e7e6f3c88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BioScanner.AuthManager.evaluate(completion: (__C.NSNumber, BioScanner.AuthManager.BiometricType, BioScanner.AuthManager.BiometricResult) -&gt; ()) -&gt; ()"
+                  moduleName = "BioScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadmoin/XCodeProjects/FrameworkProjects/BioFaceNFIiOS/BioFaceNFIiOS/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "F0FDBE2E-86D4-4DC3-99EA-B2F61B9D83DF - 1e36dc7976cc1347"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BioScanner.AuthManager.evaluate(completion: (__C.NSNumber, BioScanner.AuthManager.BiometricType, BioScanner.AuthManager.BiometricResult) -&gt; ()) -&gt; ()"
+                  moduleName = "BioScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadmoin/XCodeProjects/FrameworkProjects/BioFaceNFIiOS/BioFaceNFIiOS/AuthManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48371897-CA24-4067-81F5-97B8F0502A93"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "evaluate(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8C2A6F7-7724-4F02-9445-AF298EA889D9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "evaluate(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE3C9527-EC0C-40C8-A6ED-4C383C49A29F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "evaluate(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "157ADF9B-4C2C-4C6A-BA70-58BB62A7BBEC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "evaluate(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19377CE3-F8C5-4300-AF9D-904F4D8E25F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "evaluate(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FC4D564-CB4C-411E-AE1A-A907845060FE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "evaluate(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "728AAC28-B3FF-4A22-BC00-9D47B227D6FE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "evaluate(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6E0471F-27EB-4229-B4FC-AC1AAA3048DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BioFaceNFIiOS/BioFaceNFIiOS/AuthManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "evaluate(completion:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

@@ -12,24 +12,16 @@ class ViewController: UIViewController {
     @IBOutlet weak var verifyBtn: UIButton?
     @IBOutlet weak var toggleBtn: UIButton?
     
-    private var authManager = AuthManager()
+    private let authManager = AuthManager()
 
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
-        verifyBtn?.setImage(UIImage(systemName: "faceid"), for: .normal)
-        
-        /*
-        // create the alert
-        
-        */
-        
     }
     @IBAction func toggleBtnTapped(_sender1: UIButton){
-        let status: String = authManager.resetBioIDPolicyState()
+        let status: Bool = authManager.resetBioIDPolicyState()
         alert(title: "BioIDPolicyState",
-              message: status,
+              message: "BioIDPolicyState Reset \(status)",
               okActionTitle: "Ok")
         
     }
@@ -42,16 +34,16 @@ class ViewController: UIViewController {
             else{
                 
                 authManager.evaluate {
-                    [weak self] (success, error) in
+                    [weak self] (success, btype, result) in
                     guard success == 1 else {
                         
-                        self?.alert(title: "Failed",
-                                    message: "Biometric Unsuccessful. FaceID/TouchID might not be configured",
+                        self?.alert(title: "\(btype.localDescription) Error \(result.rawValue)",
+                                    message: result.localizedDescription,
                                     okActionTitle: "Ok")
                         return
                     }
-                    self?.alert(title: "Success",
-                                message: "Biometric successful",
+                    self?.alert(title: "\(btype.localDescription) Success",
+                                message: result.localizedDescription,
                                 okActionTitle: "Ok")
                     
                 }
